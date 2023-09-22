@@ -1,0 +1,50 @@
+.navbar{
+    background-color: #007CAE;
+    
+}
+
+.mynavbar{
+    background-color:#007CAE;
+  
+}
+
+.navbar-brand{
+    color: white;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 800;
+}
+.nav-link{
+    color: white;
+    margin-left: 22px;
+    font-weight: 400;
+
+}
+.getstarted-btn{
+    border: 2px solid #FACA15;
+    padding: 7px 15px 7px 15px;
+    border-radius: 10px;
+}
+.getstarted-btn:hover{
+    background-color: #FACA15;
+    color: black;
+}
+.enroll-btn{
+    background-color: #FACA15;
+    color: black;
+    margin: 0px 0px 0px 10px;
+    padding: 8px 18px;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.enroll :hover{
+    color: black;
+    font-weight: 700;
+    background-color:#FACA15;
+}
+.nav-item :hover{
+    color: white;
+    font-weight: 500;
+}
